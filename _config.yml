@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 李忠伟的个人博客
+subtitle: '记录点滴 分享成长'
+description: 记录点滴
+author: belllee.github.io
+language: zh_cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://belllee.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
