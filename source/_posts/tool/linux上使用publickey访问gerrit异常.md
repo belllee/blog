@@ -17,6 +17,6 @@ and the repository exists.
 ### 解决办法
 执行完ssh-keygen再执行一下ssh-add
 ```
-ssh-keygen -t rsa -C "mymail@zte.com.cn"
+ssh-keygen -t rsa -C "mymail@my.com"
 ssh-add ~/.ssh/id_rsa
 ```
